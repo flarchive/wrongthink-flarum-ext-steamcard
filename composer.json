@@ -1,0 +1,24 @@
+{
+    "name": "wrongthink/flarum-ext-steamcard",
+    "description": "WrongThink SteamCard",
+    "type": "flarum-extension",
+    "authors": [{
+        "name": "bane",
+        "email": "bane@wrongthink.net"
+    }],
+    "require": {
+        "flarum/core": "^0.1.0-beta.4"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "WrongThink SteamCard",
+            "icon": {
+                "name": "steam-square",
+                "backgroundColor": "#14191F", 
+                "color": "#606060"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable" : true
+}
