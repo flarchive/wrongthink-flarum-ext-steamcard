@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of wrongthink/flarum-ext-steamcard.** Not for installation: use [Packagist](https://packagist.org/packages/wrongthink/flarum-ext-steamcard) or the [upstream repository](https://github.com/1337god/flarum-ext-steamcard).
 
-**0** versions archived · Latest: [`1.2`](https://github.com/flarchive/wrongthink-flarum-ext-steamcard/tree/archive/v1.2) · Flarum: `^0.1.0-beta.4`
+**3** versions archived · Latest: [`1.2`](https://github.com/flarchive/wrongthink-flarum-ext-steamcard/tree/archive/v1.2) · Flarum: `^0.1.0-beta.4`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2017-05-11 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/wrongthink-flarum-ext-steamcard/tree/archive/v1.0) |
+| `1.1` | 2017-05-12 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/wrongthink-flarum-ext-steamcard/tree/archive/v1.1) |
+| `1.2` | 2017-05-12 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/wrongthink-flarum-ext-steamcard/tree/archive/v1.2) |
 
 Catalog entry: [packages/wrongthink-flarum-ext-steamcard.json](https://github.com/flarchive/archive-index/blob/main/packages/wrongthink-flarum-ext-steamcard.json)
 
